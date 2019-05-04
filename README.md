@@ -1,1 +1,4 @@
 # projectz
+
+## features
+git functionality
